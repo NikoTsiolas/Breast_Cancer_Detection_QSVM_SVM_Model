@@ -1,6 +1,6 @@
 # 🧬 Quantum vs Classical SVM for Breast Cancer Diagnosis
 
-This project compares the performance of a **Quantum Support Vector Machine (QSVM)** and a **Classical SVM** in diagnosing breast cancer using the Breast Cancer Wisconsin dataset. The goal is to explore how quantum machine learning models compare to traditional models in terms of accuracy, scalability, and practical usability.
+This project compares the performance of a **Quantum Support Vector Machine (QSVM)** and a **Classical SVM** in Deciding if  breast cancer is malignant or benigh.  The goal is to explore how quantum machine learning models compare to traditional models in terms of accuracy, scalability, and practical usability.
 
 ## 📊 Overview
 
